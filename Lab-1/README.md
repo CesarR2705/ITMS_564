@@ -1,15 +1,5 @@
 # ITMS 564 Lab01: Identity Lifecycle Management on AWS
 
-Cesar Ramirez
-
-This folder has the lab code and my answers to the 24 questions. The lab's own app README is [APP_README.md](APP_README.md).
-
-I ran the whole lab from my `my-ubuntu` container in us-east-2 and deleted everything at the end. A few notes:
-
-- The PDF scrambled a couple of symbols in two web pages, so I fixed them to get the tests passing.
-- I added a few AWS permissions to my lab user for this lab and removed them afterward.
-- I used the seed script for all 10 employees instead of typing three in by hand.
-- None of the images are screen captures. The terminal ones are made from output I saved, and the dashboard ones are the real pages from my server. Account numbers, IPs and my email are hidden.
 
 ## Part A: Run the Tests Locally
 
